@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string-array name="category_array">
+        <item>--Select Category--</item>
+        <item>Fuel</item>
+        <item>Food</item>
+        <item>Education</item>
+        <item>Misc</item>
+    </string-array>
+
+</resources>
